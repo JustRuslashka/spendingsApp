@@ -55,7 +55,7 @@ class _MyAppState extends State<MyApp> {
         title: Row(
           mainAxisAlignment: MainAxisAlignment.spaceAround,
           children: [
-            Text('Daily spendings app'),
+            Text('Daily Spendings App'),
             RaisedButton(onPressed: null)
           ],
         ),
